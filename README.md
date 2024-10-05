@@ -27,7 +27,7 @@ A simple **Personal Budget Tracker** application written in **Go** that helps yo
    go run main.go```
 
 Also, here is the file structure:
-.
+
 
 ├── main.go           # Go source code for the budget tracker app
 
